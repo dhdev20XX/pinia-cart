@@ -1,9 +1,9 @@
 # pinia-cart
 
-A Demo Vue3 project I setup to practice using the the Composition Api and Pinia.
+A demo Vue3 project I set up to practice using the Composition Api and Pinia.
 
 ## Project setup
-Requires a firbase project with a realtime database. Create an .env file with the folowing value.
+Requires a Firebase project with a Realtime Database. Create an .env file with the following values.
 ```
 VITE_API_URL="Your_fire_base_url"
 ```
